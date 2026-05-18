@@ -127,8 +127,8 @@ education:
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AHMADHASSANRAFIQUE&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="195" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMADHASSANRAFIQUE&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="195" alt="Top Languages" />
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=AHMADHASSANRAFIQUE&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="195" alt="GitHub Stats" />
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=AHMADHASSANRAFIQUE&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="195" alt="Top Languages" />
 
 <br/><br/>
 
