@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F2937&height=220&section=header&fontSize=45&fontColor=ffffff&title=%20Ahmad%20Hassan%20Rafique&desc=%E2%9A%A1%20Full-Stack%20Software%20Engineer%20%7C%20AI%20%26%20Backend%20Architect" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F2937&height=220&section=header&fontSize=45&fontColor=ffffff&title=Ahmad+Hassan+Rafique&desc=Full-Stack+Software+Engineer+and+AI+Architect" width="100%" />
 
 <a href="https://github.com/AHMADHASSANRAFIQUE">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+Engineering+Workspace+🚀;Full-Stack+MERN+%26+Mobile+Developer;AI+Integration+%26+Machine+Learning;Backend+System+Design+%26+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+Engineering+Workspace;Full-Stack+MERN+and+Mobile+Developer;AI+Integration+and+Machine+Learning;Backend+System+Design+and+Automation" alt="Typing SVG" />
 </a>
 
 <br/>
